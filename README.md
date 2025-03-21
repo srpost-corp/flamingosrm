@@ -1,5 +1,5 @@
 # flamingosrm
-IT서비스요청관리 Flamingo SRM: SRM Development Platform
+Flamingo SRM: SRM Development Platform
 
 Flamingo SRM is a supplier relationship management or system resource management development platform.
 
