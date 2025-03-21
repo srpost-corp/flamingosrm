@@ -27,7 +27,7 @@ Contribution
 We welcome contributions from the community! Whether you want to report a bug, request a feature, or submit a pull request, we’re excited to collaborate.
 How to Contribute 1. Fork the repository. 2. Create a feature branch. 3. Commit your changes and submit a pull request.
 
-For more information, see <a href="https://github.com/srpost-corp/flamingosrm/CONTRIBUTING.md">CONTRIBUTING.md</a>.
+For more information, see <a href="[https://github.com/srpost-corp/flamingosrm/CONTRIBUTING.md](https://github.com/srpost-corp/flamingosrm/blob/main/CONTRIBUTING.md)">CONTRIBUTING.md</a>.
 
 Acknowledgements
 Flamingo SRM is built on ExtJS 4.2, a powerful JavaScript framework for building data-rich web applications. Thanks to the ExtJS team for their groundbreaking work and contributions to the developer community.
